@@ -31,11 +31,11 @@ My personal portfolio website is a single-page web application built using HTML,
 
 ## Installation
 
-To install this project, simply clone the repository and open the `index.html` file in your web browser:
+To install this project, simply clone the repository and open the `index.html` file in your web browser.
 
 ## Usage
 
-To use this project, simply navigate to the URL of your hosted website:
+To use this project, simply navigate to the URL of your hosted website.
 
 ## Contributing
 
