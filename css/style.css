@@ -487,6 +487,8 @@ mark,
   background-color: #fcf8e3;
 }
 
+
+
 .list-unstyled {
   padding-left: 0;
   list-style: none;
@@ -6483,7 +6485,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #0BCEAF !important;
+  border-color: #288E5A !important;
 }
 
 .border-secondary {
@@ -6503,7 +6505,7 @@ button.bg-dark:focus {
 }
 
 .border-danger {
-  border-color: #dc3545 !important;
+  border-color: #288E5A !important;
 }
 
 .border-light {
@@ -9803,7 +9805,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #0BCEAF;
+  color: #288E5A;
 }
 
 @media (max-width: 991.98px) {
