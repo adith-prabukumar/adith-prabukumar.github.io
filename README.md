@@ -4,15 +4,6 @@ This is my personal portfolio website, where I showcase my projects and skills a
 
 View Portfolio: Click [here](https://adith-prabukumar.github.io/)
 
-## Table of Contents
-
-- [Description](#description)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
