@@ -14,13 +14,12 @@ This is my personal portfolio website, where I showcase my projects and skills a
 
 ## Description
 
-My personal portfolio website is a single-page web application built using HTML, CSS, and JavaScript. It features a responsive design that adapts to different screen sizes, and includes sections for my projects, skills, and contact information.
+My personal portfolio website is a single-page web application built using HTML and CSS. It features a responsive design that adapts to different screen sizes and includes sections for my projects, skills, and contact information.
 
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript
 
 ## Features
 
